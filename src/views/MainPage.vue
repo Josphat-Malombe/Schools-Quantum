@@ -6,6 +6,7 @@
     <Why />
     <Portals />
     <Websites />
+    <Statistics />
     <Footer />
   </div>
 </template>
@@ -17,6 +18,7 @@ import Why from '../components/Why.vue'
 import Websites from '../components/Websites.vue'
 import Portals from '../components/Portals.vue'
 import Footer from '../components/Footer.vue'
+import Statistics from '../components/Statistics.vue'
 </script>
 
 <style>
